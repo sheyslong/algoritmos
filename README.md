@@ -1,7 +1,7 @@
 # Algoritmos
 
-## [Selection Sort](/selection sort)
+## [Selection Sort](/selection)
 
-## [Bubble Sort](/bubble sort)
+## [Bubble Sort](/bubble)
 
-## [Insertion Sort](/insertion sort)
+## [Insertion Sort](/insertion)
