@@ -2,6 +2,8 @@
 
 ## [Selection Sort](/selection)
 
+## [Insertion Sort](/insertion)
+
 ## [Bubble Sort](/bubble)
 
-## [Insertion Sort](/insertion)
+## [Binary Search]
